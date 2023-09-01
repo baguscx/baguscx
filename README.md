@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center" >Hello👋 I'm Bagus Cahyono.</h1>
 
-<!--
-**baguscx/baguscx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">📊 My Github Stats:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+<a href="https://github.com/baguscx"><img alt="Bagus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=baguscx&show_icons=true&theme=tokyonight" /></a>
+<a href="https://github.com/baguscx"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baguscx&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>  
+</p>
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+🌍 <a href="https://baguscx.github.io">Bagus Cahyono</a>
+</p>
