@@ -8,7 +8,8 @@
 <a href="https://github.com/baguscx"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baguscx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a>  
 </p>
   
-### **Connect with me:**  
-🌍[Bagus Cahyono](https://baguscx.github.io)
+### **🔗 Connect with me:**  
+🌍[Github Page](https://baguscx.github.io)  
+💼[Linkedln](https://www.linkedin.com/in/baguscx/)
 
 
